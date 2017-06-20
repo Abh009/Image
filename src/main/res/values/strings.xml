@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="image1">Image</string>
+    <string name="image2">Image 2</string>
+    <string name="image3">Image 3</string>
+    <string name="image4">Image 4</string>
+    <string name="image5">Image 5</string>
+    <string name="Done">Done</string>
+    <string name="last_page_note">That\'s Done</string>
+</resources>
